@@ -2,7 +2,7 @@
 /**
  * times_table - prints the times table
  */
-void times_table(void)
+void print_times_table(void)
 {
 	int i, j, product;
 
