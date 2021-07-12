@@ -7,7 +7,6 @@
  * @argv: argument that stores the strings in an array of char* (strings)
  * Return: 0
  */
-The third one
 int main(int argc, char *argv[])
 {
 int a;

@@ -1,6 +1,7 @@
 #include "holberton.h"
 #include <stdio.h>
 #include <stdlib.h>
+#include <ctype.h>
 /**
  * main - program that prints its name, followed by a new line
  * @argc: argument that counts argument input
