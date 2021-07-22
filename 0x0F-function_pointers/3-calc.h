@@ -1,4 +1,3 @@
-
 #ifndef OPERATIONS
 #define OPERATIONS
 /**
